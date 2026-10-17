@@ -7,7 +7,7 @@ This project covers data preprocessing (handling hidden zero-values), feature sc
 ---
 
 ## 📌 Project Overview
-The dataset originates from the **National Institute of Diabetes and Digestive and Kidney Diseases** (Pima Indians Diabetes Database). The goal is to diagnostically predict whether a patient has diabetes based on specific clinical features.
+The dataset originates from the **National Institute of Diabetes and Digestive and Kidney Diseases** (Pima Indians Diabetes Database). The goal is to diagnostically predict whether a patient has diabetes based on specific clinical features. 
 
 ### Key Objectives:
 - Identify and handle hidden missing values represented as zeros (`0`) in medical measurements.
