@@ -2,7 +2,7 @@
 
 A Machine Learning project using **Logistic Regression** to predict whether a patient has diabetes based on diagnostic medical measurements. 
 
-This project covers data preprocessing (handling hidden zero-values), feature scaling, model training, evaluation, and model interpretation (feature importance).
+This project covers data preprocessing (handling hidden zero-values), feature scaling, model training, evaluation, and model interpretation (feature importance). 
 
 ---
 
